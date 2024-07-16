@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="ServiceConductual.aspx" />
+    <Content Include="ServicePareja.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -92,6 +93,13 @@
     </Compile>
     <Compile Include="ServiceConductual.aspx.designer.cs">
       <DependentUpon>ServiceConductual.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ServicePareja.aspx.cs">
+      <DependentUpon>ServicePareja.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ServicePareja.aspx.designer.cs">
+      <DependentUpon>ServicePareja.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
