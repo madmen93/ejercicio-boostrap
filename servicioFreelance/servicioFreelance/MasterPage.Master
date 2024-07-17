@@ -24,9 +24,6 @@
                                 <a class="nav-link active" aria-current="page" href="Default.aspx">Inicio</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Precios</a>
-                            </li>
-                            <li class="nav-item">
                                 <a class="nav-link" href="Contacto.aspx">Contacto</a>
                             </li>
                             <li class="nav-item dropdown">

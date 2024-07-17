@@ -29,7 +29,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Psicología conductual</h5>
                         <p class="card-text">Suspendisse gravida sapien velit, eu elementum risus sagittis placerat. Nam et urna ac tortor dictum vehicula. Curabitur semper mi sed elementum pellentesque. Mauris lobortis imperdiet sapien. Suspendisse quam dolor, pretium eu pharetra in, dictum sit amet metus.</p>
-                        <a href="#" class="btn btn-primary">Más información</a>
+                        <a href="ServiceConductual.aspx" class="btn btn-primary">Más información</a>
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Terapia de parejas</h5>
                         <p class="card-text">Sed nulla nulla, commodo vel dolor ac, euismod bibendum turpis. Mauris porttitor dapibus enim, eget volutpat mi. Duis ullamcorper malesuada metus, in accumsan magna eleifend ut. Nam blandit hendrerit enim, eget viverra augue ornare quis. Mauris justo elit, dictum.</p>
-                        <a href="#" class="btn btn-primary">Más información</a>
+                        <a href="ServicePareja.aspx" class="btn btn-primary">Más información</a>
                     </div>
                 </div>
             </div>
